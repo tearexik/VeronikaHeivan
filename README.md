@@ -1,4 +1,4 @@
-# TechUs Store
+# Paws Store
 
 ## Features
 
